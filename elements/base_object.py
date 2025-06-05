@@ -2,6 +2,6 @@
 
 class BaseObject:
     def __init__(self):
-        print("axial")
+        print("Je suis la classe de base BaseObject")
 
     

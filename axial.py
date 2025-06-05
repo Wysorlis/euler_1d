@@ -1,9 +1,0 @@
-# coding: utf-8
-
-from base_object import BaseObject
-
-class Axial(BaseObject):
-    def __init__(self):
-        print("axial")
-
-    

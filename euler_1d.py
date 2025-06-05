@@ -1,9 +1,10 @@
 #coding: utf-8
+
 import numpy as np
-from axial import Axial
+from elements.pipe import Pipe
 
 def main():
-    axial = Axial()
+    my_pipe = Pipe()
 
 
 if __name__ == "__main__":
